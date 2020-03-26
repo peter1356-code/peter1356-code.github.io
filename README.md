@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Peter's page!
 
 You can use the [editor on GitHub](https://github.com/peter1356-code/peter1356-code.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
